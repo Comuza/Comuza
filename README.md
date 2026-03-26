@@ -1,7 +1,7 @@
 # <p align="center">Comuza • The King of the Null</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC8C8&center=true&vCenter=true&width=500&lines=Un+Futuro+Developer+Crack;Creative+Mind+%26+UI+Enthusiast;Building+Kecomu+IA;La+privacidad+es+mi+poder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC8C8&center=true&vCenter=true&width=500&lines=Un+Futuro+Developer+Crack;Perfeccionista;Me+gusta+el+detalle;Trabajando+en+Kecomu+IA;La+privacidad+es+mi+poder" />
 </p>
 
 ---
