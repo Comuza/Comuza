@@ -45,9 +45,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Comuza&bg_color=000000&color=FFC8C8&line=FFC8C8&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </p>
 
----
-
-<h3 align="center">Score/Puntuación</h3>
+<p align="center">
+  <a href="https://github.com/Comuza/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=ishandutta2007&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /></picture></a>
+  <a href="https://github.com/Comuza/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=ishandutta2007&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></aishandutta2007h3 align="center">Score/Puntuación</h3>
 
 
 <p align="center">
