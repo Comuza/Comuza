@@ -23,7 +23,7 @@
 
 ---
 
-### Ultima actualización de Kecomu IA agrego...
+### Última actualización de Kecomu IA:
 
 <h3>Optimización</h3>
 
@@ -89,18 +89,14 @@
 </p>
 
 ---
-<h3 align="center">
-Experiencia
 
-<br>
-<br>
-  
+<h3 align="center">Experiencia</h3>
+
 <p align="center">
- <img src="https://img.shields.io/badge/Proyectos-2-FFC8C8?style=for-the-badge&logo=github&labelColor=000000&color=2E0008" />
- <img src="https://img.shields.io/badge/Trabajo_en_equipo-0._Estoy_abierto_a_colaboraciones_:3-FFC8C8?style=for-the-badge&logo=github&labelColor=000000&color=2E0008" />
-<img src="https://img.shields.io/badge/Exp_en_empresas-No.-FFC8C8?style=for-the-badge&logo=github&labelColor=000000&color=2E0008" />
-
-
+  <img src="https://img.shields.io/badge/Proyectos-2-FFC8C8?style=for-the-badge&logo=github&labelColor=000000&color=2E0008" />
+  <img src="https://img.shields.io/badge/Trabajo_en_equipo-0._Estoy_abierto_a_colaboraciones_:3-FFC8C8?style=for-the-badge&logo=github&labelColor=000000&color=2E0008" />
+  <img src="https://img.shields.io/badge/Exp_en_empresas-No.-FFC8C8?style=for-the-badge&logo=github&labelColor=000000&color=2E0008" />
+</p>
 
 ---
 
@@ -140,5 +136,5 @@ Enserio gracias <3
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC8C8&center=true&vCenter=true&width=500&lines=Adiós+:3;Cuidese!;Usted+es++un+Crack;Vivala+musica;:3;chao+<3"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC8C8&center=true&vCenter=true&width=500&lines=Adiós+:3;Cuidese!;Usted+es++un+Crack;Viva+la+musica!!!;<3;Chao+<3"/>
 </p>
