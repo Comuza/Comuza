@@ -58,6 +58,8 @@
   </a>
 </p>
 
+---
+
 <h3 align="center">Puntuación\Score</h3>
 
 <p align="center">
