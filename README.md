@@ -92,6 +92,8 @@
 
 <h3 align="center">Experiencia</h3>
 
+<br>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Proyectos-2-FFC8C8?style=for-the-badge&logo=github&labelColor=000000&color=2E0008" />
   <img src="https://img.shields.io/badge/Trabajo_en_equipo-0._Estoy_abierto_a_colaboraciones_:3-FFC8C8?style=for-the-badge&logo=github&labelColor=000000&color=2E0008" />
