@@ -1,7 +1,7 @@
 # <p align="center">Comuza • The King of the Null</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC8C8&center=true&vCenter=true&width=500&lines=Hola+:3;Un+Futuro+Developer+Crack;Perfeccionista;Me+gusta+el+detalle;Trabajando+en+Kecomu+IA;La+privacidad+es+poder;La+privacidad+es+una+necesidad;La+optimización+es+una+necesidad" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC8C8&center=true&vCenter=true&width=500&lines=Hola+:3;Un+Futuro+Developer+Crack;Perfeccionista;Me+gusta+el+detalle;Trabajando+en+Kecomu+IA;La+privacidad+es+poder;La+privacidad+es+una+necesidad" />
 </p>
 
 ---
@@ -19,7 +19,7 @@
 | Proyecto | Estado | Descripción |
 | :--- | :--- | :--- |
 | **[Kecomu IA](https://comuza.github.io/ComuzaIA-Kerolmi/)** | Alfa | Asistente de IA para desarrollo web con 3 motores: Nova, Kero y Umwarimu. |
-| **[Mi primera pagina](https://comuza.github.io/HistoriasComuza/)** | Esperando rework | Documentación evolutiva sobre arquitectura web y buenas prácticas. |
+| **[HistoriasComuza](https://comuza.github.io/HistoriasComuza/)** | Esperando rework | Documentación evolutiva sobre arquitectura web y buenas prácticas. |
 
 ---
 
@@ -96,7 +96,9 @@ Experiencia
 <br>
   
 <p align="center">
- <img src="https://img.shields.io/badge/Experiencia-Anonima-FFC8C8?style=for-the-badge&logo=github&labelColor=000000&color=2E0008" />
+ <img src="https://img.shields.io/badge/Proyectos-2-FFC8C8?style=for-the-badge&logo=github&labelColor=000000&color=2E0008" />
+ <img src="https://img.shields.io/badge/Trabajo_en_equipo-0._Estoy_abierto_a_colaboraciones_:3-FFC8C8?style=for-the-badge&logo=github&labelColor=000000&color=2E0008" />
+<img src="https://img.shields.io/badge/Exp_en_empresas-No.-FFC8C8?style=for-the-badge&logo=github&labelColor=000000&color=2E0008" />
 
 
 
