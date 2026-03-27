@@ -47,6 +47,27 @@
 
 ---
 
+<h3 align="center">Score/Puntuación</h3>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Performance-95%25-FFC8C8?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=450202" />
+
+  <br>
+  
+<img src="https://img.shields.io/badge/Accessibility-100%25-FFC8C8?style=for-the-badge&logo=accessible-icon&logoColor=white&labelColor=2E0008" />
+
+  <br>
+  
+  <img src="https://img.shields.io/badge/Best_Practices-100%25-FFC8C8?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=450202" />
+
+  <br>
+  
+  <img src="https://img.shields.io/badge/SEO-100%25-FFC8C8?style=for-the-badge&logo=google&logoColor=white&labelColor=450202" />
+</p>
+
+---
+
 ### Estoy aprendiendo...
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
