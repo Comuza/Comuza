@@ -19,7 +19,7 @@
 | Proyecto | Estado | Descripción |
 | :--- | :--- | :--- |
 | **[Kecomu IA](https://comuza.github.io/ComuzaIA-Kerolmi/)** | Alfa | Asistente de IA para desarrollo web con 3 motores: Nova, Kero y Umwarimu. |
-| **[Mi primera pagina](https://comuza.github.io/HistoriasComuza/)** | Esperando rework | Cosas sobre mi y un manual que no terminare hasta que sea un crack. |
+| **[Mi primera pagina](https://comuza.github.io/HistoriasComuza/)** | Esperando rework | Documentación evolutiva sobre arquitectura web y buenas prácticas. |
 
 ---
 
