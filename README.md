@@ -46,9 +46,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Comuza/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=ishandutta2007&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /></picture></a>
-  <a href="https://github.com/Comuza/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=ishandutta2007&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></aishandutta2007h3 align="center">Score/Puntuación</h3>
-
+  <a href="https://github.com/Comuza/beautiful-github-homepage">
+    <picture>
+      <img height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=Comuza&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="Estadísticas de GitHub" />
+    </picture>
+  </a>
+  <a href="https://github.com/Comuza/beautiful-github-homepage">
+    <picture>
+      <img height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Comuza&hide_title=false&layout=compact&theme=gotham&count_private=true" alt="Lenguajes más usados" />
+    </picture>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Performance-95%25-FFC8C8?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=450202" />
