@@ -71,3 +71,16 @@ Experiencia
 <p align="center">
   <img src="https://img.shields.io/badge/Autor-ComuzaDeveloper-FFC8C8?style=for-the-badge&logo=github&labelColor=000000&color=2E0008" />
 </p>
+
+### Gracias!!!
+
+Un agradecimiento especial a los **ingenieros senior, arquitectos de software y mentes de la industria** que se han sumado a seguir este perfil en las últimas semanas. 
+
+Ver que profesionales de **FAANG** y grandes instituciones están observando el crecimiento de **Kecomu**, no solo es un honor, sino el combustible para seguir programando más duro en el desarrollo de este ecosistema.
+
+**¿Por qué sigo aquí?**
+- Por que me gusta programar.
+- Por la creencia de que la **Privacidad** es un derecho, no una opción.
+- Por el apoyo de una comunidad que valora el código artesanal.
+
+Enserio gracias <3
