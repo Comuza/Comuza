@@ -1,7 +1,7 @@
 # <p align="center">Comuza • The King of the Null</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC8C8&center=true&vCenter=true&width=500&lines=Hola+:3;Un+Futuro+Developer+Crack;Perfeccionista;Me+gusta+el+detalle;Trabajando+en+Kecomu+IA;La+privacidad+es+poder;La+privacidad+es+una+necesidad" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC8C8&center=true&vCenter=true&width=500&lines=Hola+:3;Un+Futuro+Developer+Crack;Perfeccionista;Me+gusta+el+detalle;Trabajando+en+Kecomu+IA;La+privacidad+es+poder"/>
 </p>
 
 ---
@@ -137,3 +137,8 @@ Ver que profesionales de **FAANG** y grandes instituciones están observando el 
 - Por el apoyo de una comunidad que valora el código artesanal.
 
 Enserio gracias <3
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC8C8&center=true&vCenter=true&width=500&lines=Adiós+:3;Cuidese!;Usted+es++un+Crack;Vivala+musica;:3;chao+<3"/>
+</p>
