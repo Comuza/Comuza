@@ -115,12 +115,6 @@
 
 ---
 
-### Creditos...
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Autor-ComuzaDeveloper-FFC8C8?style=for-the-badge&logo=github&labelColor=000000&color=2E0008" />
-</p>
-
 ### Special Thanks / Reconocimientos
 
 Un agradecimiento especial a los **ingenieros senior, arquitectos de software y mentes de la industria** que se han sumado a seguir este perfil en las últimas semanas. 
