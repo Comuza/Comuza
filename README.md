@@ -46,7 +46,11 @@
 </p>
 
 <p align="center">
-  <img height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=Comuza&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="Estadísticas de GitHub" />
+  <img height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=Comuza&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="Estadísticas de GitHub"/>
+
+  <br>
+  
+<p align="center">
   <img height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Comuza&hide_title=false&layout=compact&theme=gotham&count_private=true" alt="Lenguajes más usados" />
 </p>
 
