@@ -1,4 +1,4 @@
-### Language / Lenguaje
+<h3 align="center">Language / Lenguaje</h3>
 
 <p align="center">
   <a href="README.md">
