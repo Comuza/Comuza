@@ -62,6 +62,8 @@
 
 <h3 align="center">Puntuación / Score</h3>
 
+<br>
+
 <p align="center">
   
   <img src="https://img.shields.io/badge/Performance-95%25-FFC8C8?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=450202" />
