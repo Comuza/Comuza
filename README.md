@@ -25,6 +25,8 @@
 
 ### Ultima actualización de Kecomu IA agrego...
 
+<h3>Optimización</h3>
+
 - Ejecución JavaScript: 25-35% más rápida
 
 - Carga CPU reducida: 25-40% según el dispositivo
