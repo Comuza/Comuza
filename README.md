@@ -45,8 +45,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Comuza&bg_color=000000&color=FFC8C8&line=FFC8C8&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </p>
 
-<h3 align="center" Puntuación|Score</h3>
-
 <p align="center">
   <a href="https://github.com/Comuza/beautiful-github-homepage">
     <picture>
@@ -60,8 +58,10 @@
   </a>
 </p>
 
+<h3 align="center">Puntuación\Score</h3>
 
 <p align="center">
+  
   <img src="https://img.shields.io/badge/Performance-95%25-FFC8C8?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=450202" />
 
   <br>
