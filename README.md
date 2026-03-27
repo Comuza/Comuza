@@ -51,15 +51,13 @@ Experiencia
 
 ---
 
-### Contactame en...
+### Conecta Conmigo
 
 <a href="mailto:Comuzadeveloper@outlook.com">
   <img src="https://img.shields.io/badge/Outlook-Comuzadeveloper@outlook.com-FFC8C8?style=for-the-badge&logo=microsoft-outlook&logoColor=000000&labelColor=2E0008" />
 </a>
 
----
-
-### Buscame en...
+<br>
 
 <a href="https://www.linkedin.com/in/comuza-developer-b93bb73b8/">
   <img src="https://img.shields.io/badge/LinkedIn-Sigue_a_Comuza!!!-FFC8C8?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=2E0008" />
