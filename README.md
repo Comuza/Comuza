@@ -60,7 +60,7 @@
 
 ---
 
-<h3 align="center">Puntuación\Score</h3>
+<h3 align="center">Puntuación / Score</h3>
 
 <p align="center">
   
@@ -95,7 +95,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Proyectos-2-FFC8C8?style=for-the-badge&logo=github&labelColor=000000&color=2E0008" />
   <img src="https://img.shields.io/badge/Trabajo_en_equipo-0._Estoy_abierto_a_colaboraciones_:3-FFC8C8?style=for-the-badge&logo=github&labelColor=000000&color=2E0008" />
-  <img src="https://img.shields.io/badge/Exp_en_empresas-No.-FFC8C8?style=for-the-badge&logo=github&labelColor=000000&color=2E0008" />
+  <img src="https://img.shields.io/badge/Experiencia-Freelance-FFC8C8?style=for-the-badge&logo=code&labelColor=000000&color=2E0008" />
 </p>
 
 ---
