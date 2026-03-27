@@ -38,9 +38,36 @@
 </p>
 
 ---
+<h3 align="center">
+Experiencia
 
-### Experiencia
+<br>
+<br>
+  
+<p align="center">
  <img src="https://img.shields.io/badge/Experiencia-Anonima-FFC8C8?style=for-the-badge&logo=github&labelColor=000000&color=2E0008" />
+
+
+
+---
+
+### Contactame en...
+
+<a href="mailto:Comuzadeveloper@outlook.com">
+  <img src="https://img.shields.io/badge/Outlook-Comuzadeveloper@outlook.com-FFC8C8?style=for-the-badge&logo=microsoft-outlook&logoColor=000000&labelColor=2E0008" />
+</a>
+
+---
+
+### Buscame en...
+
+<a href="https://www.linkedin.com/in/comuza-developer-b93bb73b8/">
+  <img src="https://img.shields.io/badge/LinkedIn-Sigue_a_Comuza!!!-FFC8C8?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=2E0008" />
+</a>
+
+---
+
+### Creditos...
 
 <p align="center">
   <img src="https://img.shields.io/badge/Autor-ComuzaDeveloper-FFC8C8?style=for-the-badge&logo=github&labelColor=000000&color=2E0008" />
