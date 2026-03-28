@@ -38,14 +38,7 @@
 
 ### Latest Kecomu IA Update:
 
-<h3>Optimization</h3>
-
-- Language: Complete bilingual system (es/en) with localStorage persistence
-- Visual clarity: Active card shadow now more visible (+ contrast, + brightness)
-- Animations: Fixed chat messages (text no longer disappears at the end)
-- Language selector: Integrated in settings, applied across all pages
-- Code: Full translation of 6 pages (index, settings, news, capabilities, chat, privacy)
-- Consistency: All pages sync language, theme, animation quality and visual clarity
+<h3>day off</h3>
 
 ---
 ### Global Activity
