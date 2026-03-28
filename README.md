@@ -40,17 +40,13 @@
 
 <h3>Optimización</h3>
 
-- Ejecución JavaScript: 25-35% más rápida
-
-- Carga CPU reducida: 25-40% según el dispositivo
-
-- Memoria RAM: 8-12% menos consumo
-
-- Código optimizado con arrows
-
-- Mismas animaciones, delays y funcionalidades visuales intactas
-
-- Mejor experiencia en dispositivos de gama baja y móviles 
+- Actualizamos toda la web
+- Idioma: Sistema bilingüe completo (es/en) con persistencia en localStorage
+- Claridad visual: Sombra de tarjeta activa más visible (+ contraste, + brillo)
+- Animaciones: Corrección en mensajes del chat (texto ya no desaparece al final)
+- Selector de idioma: Integrado en configuraciones, aplicado en todas las páginas
+- Código: Traducción completa de 6 páginas (index, config, novedades, capacidades, chat, privacidad)
+- Consistencia: Todas las páginas sincronizan idioma, tema, calidad de animación y claridad visual
 
 ---
 ### Actividad Global
