@@ -40,12 +40,12 @@
 
 <h3>Optimization</h3>
 
-- JavaScript Execution: 25-35% faster
-- CPU Load: 25-40% reduction depending on device
-- RAM Memory: 8-12% less consumption
-- Code optimized with arrow functions
-- Same animations, delays, and visual functionalities intact
-- Better experience on low-end devices and mobile
+- Language: Complete bilingual system (es/en) with localStorage persistence
+- Visual clarity: Active card shadow now more visible (+ contrast, + brightness)
+- Animations: Fixed chat messages (text no longer disappears at the end)
+- Language selector: Integrated in settings, applied across all pages
+- Code: Full translation of 6 pages (index, settings, news, capabilities, chat, privacy)
+- Consistency: All pages sync language, theme, animation quality and visual clarity
 
 ---
 ### Global Activity
