@@ -38,15 +38,7 @@
 
 ### Última actualización de Kecomu IA:
 
-<h3>Optimización</h3>
-
-- Actualizamos toda la web
-- Idioma: Sistema bilingüe completo (es/en) con persistencia en localStorage
-- Claridad visual: Sombra de tarjeta activa más visible (+ contraste, + brillo)
-- Animaciones: Corrección en mensajes del chat (texto ya no desaparece al final)
-- Selector de idioma: Integrado en configuraciones, aplicado en todas las páginas
-- Código: Traducción completa de 6 páginas (index, config, novedades, capacidades, chat, privacidad)
-- Consistencia: Todas las páginas sincronizan idioma, tema, calidad de animación y claridad visual
+<h3>Día de descanso</h3>
 
 ---
 ### Actividad Global
