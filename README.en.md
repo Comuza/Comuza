@@ -38,7 +38,9 @@
 
 ### Latest Kecomu IA Update:
 
-<h3>day off</h3>
+<h3>Creating the AI...</h3>
+
+<p>We are currently working on how an MB AI would function...</p>
 
 ---
 ### Global Activity
