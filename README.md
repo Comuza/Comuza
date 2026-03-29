@@ -38,7 +38,9 @@
 
 ### Última actualización de Kecomu IA:
 
-<h3>Día de descanso</h3>
+<h3>Creando la ia...</h3>
+
+<p>Actualmente estamos trabajando en como funcionaria una ia de mb...</p>
 
 ---
 ### Actividad Global
