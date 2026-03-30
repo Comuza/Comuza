@@ -40,7 +40,11 @@
 
 <h3>Creating the AI...</h3>
 
-<p>We are currently working on how an MB AI would function...</p>
+<p>Currently working on how an AI would function using only megabytes...</p>
+
+<p>Planning...</p>
+
+<p>This process will take one or two weeks; do not expect any activity...</p>
 
 ---
 ### Global Activity
