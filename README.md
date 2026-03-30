@@ -129,6 +129,7 @@
 <a href="https://github.com/ComuzaMobile">
   <img src="https://img.shields.io/badge/GitHub-Sigue_mi_cuenta_secundaria!!!-FFC8C8?style=for-the-badge&logo=github&logoColor=000000&labelColor=2E0008" />
 </a>
+
 ---
 
 ### Special Thanks / Reconocimientos
