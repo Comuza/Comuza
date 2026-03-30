@@ -123,6 +123,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-Follow_Comuza!!!-FFC8C8?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=2E0008" />
 </a>
 
+<a href="https://github.com/ComuzaMobile">
+  <img src="https://img.shields.io/badge/GitHub-Follow_my_secondary_account!!!-FFC8C8?style=for-the-badge&logo=github&logoColor=000000&labelColor=2E0008" />
+</a>
+
 ---
 
 ### Special Thanks / Acknowledgments
