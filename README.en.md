@@ -37,7 +37,7 @@
 | Project | Status | Description |
 | :--- | :--- | :--- |
 | **[Kecomu IA](https://comuza.github.io/ComuzaIA-Kerolmi/)** | Alpha | AI assistant for web development with 3 engines: Nova, Kero, and Umwarimu. |
-| **[HistoriasComuza](https://comuza.github.io/HistoriasComuza/)** | Waiting for rework | Evolutionary documentation on web architecture and best practices. |
+| **[Kerolmi](https://comuza.github.io/HistoriasComuza/)** | In progress... | Evolutionary documentation on web architecture and best practices. |
 
 ---
 
