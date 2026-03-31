@@ -137,6 +137,14 @@
 <br>
 <br>
 
+<a href="https://app.slack.com/client/T0APSUSE361/D0APETLRWNT">
+    <img src="https://img.shields.io/badge/Slack-Enviame_un_mensaje!-FFC8C8?style=for-the-badge&logo=microsoft-outlook&logoColor=000000&labelColor=2E0008" />
+</a>
+
+
+<br>
+<br>
+
 <a href="https://www.linkedin.com/in/comuza-developer-b93bb73b8/">
   <img src="https://img.shields.io/badge/LinkedIn-Sigue_a_Comuza!!!-FFC8C8?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=2E0008" />
 </a>
