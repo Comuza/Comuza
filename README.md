@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="URL_DE_TU_IMAGEN_YA_EDITADA_CON_TEXTO" width="100%">
+  <img src="epici" width="100%">
 </p>
 
 <h3 align="center">Language / Lenguaje</h3>
