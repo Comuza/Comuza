@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="tenor.gif" alt="Banner Animado Comuza" width="10%">
+  <img src="tenor.gif" alt="Banner Animado Comuza" width="30%">
 </p>
 
 <h3 align="center">Language / Lenguaje</h3>
