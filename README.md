@@ -1,7 +1,12 @@
-<div style="background-image: url('tenor.gif');">
-  <h1>The King of the Null</h1>
-</div>
+<h1 align="center">Comuza • The King of the Null</h1>
 
+<p align="center">
+  <img src="tenor.gif" width="100px">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&..."/>
+</p>
 <h3 align="center">Language / Lenguaje</h3>
 
 <p align="center">
