@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="tenor.gif" alt="Banner Animado Comuza" width="30%">
-</p>
+<div style="background-image: url('tenor.gif');">
+  <h1>The King of the Null</h1>
+</div>
 
 <h3 align="center">Language / Lenguaje</h3>
 
