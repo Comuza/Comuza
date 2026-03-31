@@ -13,6 +13,11 @@
 
 # <p align="center">Comuza • The King of the Null</p>
 
+
+<p align="center">
+  <img src="tenor.gif" width="100px">
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC8C8&center=true&vCenter=true&width=500&lines=ello+:3;A+Future+Developer+Crack;Perfectionist;I+love+detail;Working+on+Kecomu+AI;Privacy+is+power"/>
 </p>
@@ -159,6 +164,11 @@ Seeing that **FAANG** professionals and large institutions are watching the grow
 Really, thank you <3
 
 ---
+
+
+<p align="center">
+  <img src="tenor.gif" width="100px">
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC8C8&center=true&vCenter=true&width=500&lines=Bye+:3;Take+care!;You+are+a+Crack;Long+live+music!!!;<3;Bye+<3"/>
