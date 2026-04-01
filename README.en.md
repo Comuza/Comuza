@@ -176,7 +176,7 @@ Really, thank you <3
 
 
 <p align="center">
-  <img src="Gif's/tenor.gif" width="100px">
+  <img src="Gif's/tenor.gif" width="125px">
 </p>
 
 <p align="center">
