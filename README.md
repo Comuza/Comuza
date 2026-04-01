@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <img src="tenor.gif" width="100px">
+  <img src="Gif's/tenor.gif" width="100px">
 </p>
 
 <p align="center">
