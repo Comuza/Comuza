@@ -51,7 +51,9 @@
     Planning...
   </p>
   <p>This process will take one or two weeks; do not expect any activity...</p>
+  
 ---
+
 ### Global Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Comuza&bg_color=000000&color=FFC8C8&line=FFC8C8&point=FFFFFF&area=true&hide_border=true" width="100%" />
