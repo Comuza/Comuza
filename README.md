@@ -43,13 +43,7 @@
 
 ### Última actualización de Kecomu IA:
 
-<h3>Creando la ia...</h3>
-
-<p>Actualmente estoy trabajando en como funcionaria una ia usando unicamente megabytes...</p>
-
-<p>Planificando...</p>
-
-<p>Este proceso tardara una o 2 semanas, no esperen actividad...</p>
+<h3>Descansando...</h3>
 
 ---
 ### Actividad Global
