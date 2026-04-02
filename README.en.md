@@ -43,14 +43,7 @@
 
 ### Latest Kecomu IA Update:
 
-<h3>Creating the AI...</h3>
-
-<h3>Creating the AI...</h3>
-  <p>
-    Currently working on how an AI would function using only megabytes...<br>
-    Planning...
-  </p>
-  <p>This process will take one or two weeks; do not expect any activity...</p>
+<h3>Day off</h3>
   
 ---
 
