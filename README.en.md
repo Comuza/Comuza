@@ -36,7 +36,7 @@
 
 | Project | Status | Description |
 | :--- | :--- | :--- |
-| **[CZAdb](https://github.com/Comuza/CZAdb)** | Planning | |
+| **[CZAdb](https://github.com/Comuza/CZAdb)** | Planning | ... |
 | **[Kecomu](https://comuza.github.io/Comuza-Kerolmi/Html/)** | Finished | Abandoned, due to complexity |
 | **[Kerolmi](https://comuza.github.io/HistoriasComuza/Paginas)** | In progress... | Evolutionary documentation on web architecture and good practices. |
 
@@ -59,29 +59,6 @@
   
 <p align="center">
   <img height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Comuza&hide_title=false&layout=compact&theme=gotham&count_private=true" alt="Most Used Languages" />
-</p>
-
----
-
-<h3 align="center">Score / Puntuación</h3>
-
-<br>
-
-<p align="center">
-  
-  <img src="https://img.shields.io/badge/Performance-95%25-FFC8C8?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=450202" />
-
-  <br>
-  
-<img src="https://img.shields.io/badge/Accessibility-100%25-FFC8C8?style=for-the-badge&logo=accessible-icon&logoColor=white&labelColor=2E0008" />
-
-  <br>
-  
-  <img src="https://img.shields.io/badge/Best_Practices-100%25-FFC8C8?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=450202" />
-
-  <br>
-  
-  <img src="https://img.shields.io/badge/SEO-100%25-FFC8C8?style=for-the-badge&logo=google&logoColor=white&labelColor=450202" />
 </p>
 
 ---
