@@ -42,9 +42,9 @@
 
 ---
 
-### Última actualización de Kecomu IA:
+### Última actualización sobre mí:
 
-<h3>Descansando...</h3>
+<h3>Regresamos del descanso! <br> Estoy planificando un sistema de optimización de celulares/tabletas via adb, para que usted, pueda lograr revivir ese aparato electronico viejo, sin ningun esfuerzo!</h3>
 
 ---
 ### Actividad Global
