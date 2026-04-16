@@ -36,7 +36,8 @@
 
 | Proyecto | Estado | Descripción |
 | :--- | :--- | :--- |
-| **[Kecomu](https://comuza.github.io/Comuza-Kerolmi/Html/)** | Alfa | Asistente de IA para desarrollo web con 3 motores: Nova, Kero y Umwarimu. |
+| **[...](https://co)** | Planificando | |
+| **[Kecomu](https://comuza.github.io/Comuza-Kerolmi/Html/)** | Terminado | Abandonado, por complejidad |
 | **[Kerolmi](https://comuza.github.io/HistoriasComuza/Paginas)** | En progreso... | Documentación evolutiva sobre arquitectura web y buenas prácticas. |
 
 ---
