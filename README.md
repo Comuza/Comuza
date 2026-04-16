@@ -47,6 +47,7 @@
 <h3>Regresamos del descanso! <br> Estoy planificando un sistema de optimización de celulares/tabletas via adb, para que usted, pueda lograr revivir ese aparato electronico viejo, sin ningun esfuerzo!</h3>
 
 ---
+
 ### Actividad Global
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Comuza&bg_color=000000&color=FFC8C8&line=FFC8C8&point=FFFFFF&area=true&hide_border=true" width="100%" />
@@ -59,29 +60,6 @@
   
 <p align="center">
   <img height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Comuza&hide_title=false&layout=compact&theme=gotham&count_private=true" alt="Lenguajes más usados" />
-</p>
-
----
-
-<h3 align="center">Puntuación / Score</h3>
-
-<br>
-
-<p align="center">
-  
-  <img src="https://img.shields.io/badge/Performance-95%25-FFC8C8?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=450202" />
-
-  <br>
-  
-<img src="https://img.shields.io/badge/Accessibility-100%25-FFC8C8?style=for-the-badge&logo=accessible-icon&logoColor=white&labelColor=2E0008" />
-
-  <br>
-  
-  <img src="https://img.shields.io/badge/Best_Practices-100%25-FFC8C8?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=450202" />
-
-  <br>
-  
-  <img src="https://img.shields.io/badge/SEO-100%25-FFC8C8?style=for-the-badge&logo=google&logoColor=white&labelColor=450202" />
 </p>
 
 ---
