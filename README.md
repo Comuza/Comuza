@@ -37,7 +37,7 @@
 | Proyecto | Estado | Descripción |
 | :--- | :--- | :--- |
 | **[CZAdb](https://github.com/Comuza/CZAdb)** | Planificando | ... |
-| **[Kecomu](https://comuza.github.io/Comuza-Kerolmi/Html/)** | En progreso... | LO HEMOS LOGRADO |
+| **[Kecomu](https://comuza.github.io/Comuza-IAKerolmi/Html/)** | En progreso... | LO HEMOS LOGRADO |
 | **[Kerolmi](https://comuza.github.io/HistoriasComuza/Paginas)** | En progreso... | Documentación evolutiva sobre arquitectura web y buenas prácticas. |
 
 ---
