@@ -39,7 +39,7 @@
 | **[CZAdb](https://github.com/Comuza/CZAdb)** | Planificando | ... |
 | **[Kecomu](https://comuza.github.io/Comuza-IAKerolmi/Html/)** | En progreso... | LO HEMOS LOGRADO |
 | **[Kerolmi](https://comuza.github.io/HistoriasComuza/Paginas)** | En progreso... | Documentación evolutiva sobre arquitectura web y buenas prácticas. |
-| **[Kerolmi](https://comuza.github.io/FNAFHS-REMAKE-WEB-SITIO/)** | En progreso... | Pagina encargada de grupo indie |
+| **[FNAFHS](https://comuza.github.io/FNAFHS-REMAKE-WEB-SITIO/)** | En progreso... | Pagina encargada de grupo indie |
 
 ---
 
