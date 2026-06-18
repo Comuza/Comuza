@@ -1,156 +1,82 @@
-<h3 align="center">Language / Lenguaje</h3>
+### <p align="center">COMUZA</p>
+### <p align="center">Arquitectura de Sistemas & Desarrollo Web</p>
 
 <p align="center">
-  <a href="README.md">
-    <img src="https://img.shields.io/badge/🇪🇸-Español-FFC8C8?style=for-the-badge&labelColor=450202" />
-  </a>
-  <a href="README.en.md">
-    <img src="https://img.shields.io/badge/🇺🇸-English-FFC8C8?style=for-the-badge&labelColor=450202" />
-  </a>
+  <a href="README.md">Español</a> · 
+  <a href="README.en.md">English</a>
 </p>
 
 ---
 
-# <p align="center">Comuza • The King of the Null</p>
-
-
 <p align="center">
-  <img src="Gif's/tenor.gif" width="125px">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC8C8&center=true&vCenter=true&width=500&lines=Hola+:3;Un+Futuro+Developer+Crack;Perfeccionista;Me+gusta+el+detalle;Trabajando+en+Kecomu+IA;La+privacidad+es+poder"/>
+  <i>"El código limpio no es una opción, es una disciplina. La optimizacion... ni se deberia negociar."</i>
 </p>
 
 ---
 
-### Sobre mí
--  **Especialidad:** Desarrollador Web con enfoque en **UI/UX Moderno**.
--  **Filosofía:** Código limpio, sin frameworks innecesarios (Vanilla JS) y privacidad por diseño.
--  **Estética:** Amante del contraste oscuro, automatización, y los detalles.
--  **Identidad:** Desarrollador joven enfocado en el aprendizaje continuo y la innovación.
+### Perfil
+
+Desarrollador web orientado a la construcción de experiencias digitales con un fuerte énfasis en la arquitectura de código, la eficiencia de recursos y la integridad de datos. Mi enfoque se centra en la utilización de tecnologías nativas (Vanilla JS, CSS3, HTML5) y un buen uso de frameworks, para garantizar un control total sobre el rendimiento y la seguridad de los sistemas, evitando la dependencia innecesaria de marcos de trabajo externos.
 
 ---
 
-### Mis Proyectos Principales
+### Proyectos en Desarrollo
 
-| Proyecto | Estado | Descripción |
+| Proyecto | Estado | Alcance |
 | :--- | :--- | :--- |
-| **[CZAdb](https://github.com/Comuza/CZAdb)** | Planificando | ... |
-| **[Kecomu](https://comuza.github.io/Comuza-IAKerolmi/Html/)** | En progreso... | LO HEMOS LOGRADO |
-| **[Kerolmi](https://comuza.github.io/HistoriasComuza/Paginas)** | En progreso... | Documentación evolutiva sobre arquitectura web y buenas prácticas. |
-| **[FNAFHS](https://comuza.github.io/FNAFHS-REMAKE-WEB-SITIO/)** | En progreso... | Pagina encargada de grupo indie |
+| **CZAdb** | Planificación | Sistema de optimización de hardware mediante ADB para dispositivos móviles. |
+| **Kecomu** | Desarrollo | Plataforma integral de servicios digitales. |
+| **Kerolmi** | Documentación | Repositorio de buenas prácticas en arquitectura web y metodologías ágiles. |
+| **FNAFHS** | Colaboración | Desarrollo de sitio web para proyecto independiente de entretenimiento. |
 
 ---
 
-### Última actualización sobre mí:
+### Comunicado Oficial
 
-<h3>Regresamos del descanso! <br> Estoy planificando un sistema de optimización de celulares/tabletas via adb, para que usted, pueda lograr revivir ese aparato electronico viejo, sin ningun esfuerzo!</h3>
+Tras un período de reestructuración interna, se anuncia el inicio de una nueva fase de desarrollo centrada en la optimización de sistemas operativos móviles. El proyecto **CZAdb** representa un esfuerzo por democratizar el mantenimiento de hardware, ofreciendo una solución automatizada y accesible para la recuperación de dispositivos electrónicos.
 
 ---
 
-### Actividad Global
+### Métricas de Actividad
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Comuza&bg_color=000000&color=FFC8C8&line=FFC8C8&point=FFFFFF&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Comuza&bg_color=0a0a0a&color=cccccc&line=a0a0a0&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-  <img height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=Comuza&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="Estadísticas de GitHub"/>
-
-  <br>
-  
-<p align="center">
-  <img height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Comuza&hide_title=false&layout=compact&theme=gotham&count_private=true" alt="Lenguajes más usados" />
+  <img height="160px" src="https://beautiful-github-homepage.vercel.app/api?username=Comuza&hide_title=true&show_icons=true&theme=dark&include_all_commits=true" alt="Estadísticas de GitHub"/>
+  <img height="160px" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Comuza&hide_title=false&layout=compact&theme=dark&count_private=true" alt="Lenguajes más usados" />
 </p>
 
 ---
 
-<h3 align="center">Se utilizar...</h3>
+### Competencias Técnicas
 
-<br>
+**Dominio**
+- HTML5 · CSS3 · Diseño de Interfaces (UI/UX)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-  ---
-
-<h3 align="center">Estoy aprendiendo...</h3>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" 
-     alt="C++">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" 
-     alt="SQLite">
-</p>
-
+**Aprendizaje Activo**
+- JavaScript (Avanzado)
 
 ---
 
-<h3 align="center">Experiencia</h3>
+### Trayectoria Profesional
 
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Proyectos-2-FFC8C8?style=for-the-badge&logo=github&labelColor=000000&color=2E0008" />
-  <img src="https://img.shields.io/badge/Trabajo_en_equipo-0._Estoy_abierto_a_colaboraciones_:3-FFC8C8?style=for-the-badge&logo=github&labelColor=000000&color=2E0008" />
-  <img src="https://img.shields.io/badge/Experiencia-Freelance-FFC8C8?style=for-the-badge&logo=code&labelColor=000000&color=2E0008" />
-</p>
+- Desarrollo de proyectos freelance con enfoque en la personalización y el detalle.
+- Colaboración activa en comunidades de desarrollo independiente.
+- Participación en iniciativas de código abierto con impacto social.
 
 ---
 
-### Conecta Conmigo...
+### Contacto y Redes
 
-<a href="mailto:Comuzadeveloper@outlook.com">
-  <img src="https://img.shields.io/badge/Outlook-Comuzadeveloper@outlook.com-FFC8C8?style=for-the-badge&logo=microsoft-outlook&logoColor=000000&labelColor=2E0008" />
-</a>
-
-<br>
-<br>
-
-<a href="https://app.slack.com/client/T0APSUSE361/D0APETLRWNT">
-    <img src="https://img.shields.io/badge/Slack-Enviame_un_mensaje!-FFC8C8?style=for-the-badge&logo=microsoft-outlook&logoColor=000000&labelColor=2E0008" />
-</a>
-
-
-<br>
-<br>
-
-<a href="https://www.linkedin.com/in/comuza-developer-b93bb73b8/">
-  <img src="https://img.shields.io/badge/LinkedIn-Sigue_a_Comuza!!!-FFC8C8?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=2E0008" />
-</a>
-
-<br>
-<br>
-
-<a href="https://github.com/ComuzaMobile">
-  <img src="https://img.shields.io/badge/GitHub-Sigue_mi_cuenta_secundaria!!!-FFC8C8?style=for-the-badge&logo=github&logoColor=000000&labelColor=2E0008" />
-</a>
-
----
-
-### Special Thanks / Reconocimientos
-
-Un agradecimiento especial a los **ingenieros senior, arquitectos de software y mentes de la industria** que se han sumado a seguir este perfil en las últimas semanas. 
-
-Ver que profesionales de **FAANG** y grandes instituciones están observando el crecimiento de **Kecomu**, no solo es un honor, sino el combustible para seguir programando más duro en el desarrollo de este ecosistema.
-
-**¿Por qué sigo aquí?**
-- Por que me gusta programar.
-- Por la creencia de que la **Privacidad** es un derecho, no una opción.
-- Por el apoyo de una comunidad que valora el código artesanal.
-
-Enserio gracias <3
+- **Correo electrónico:** [Comuzadeveloper@outlook.com](mailto:Comuzadeveloper@outlook.com)
+- **Slack:** Disponible para consultas técnicas y colaboraciones.
+- **LinkedIn:** [Perfil Profesional](https://www.linkedin.com/in/comuza-developer-b93bb73b8/)
+- **GitHub Secundario:** [ComuzaMobile](https://github.com/ComuzaMobile)
 
 ---
 
 <p align="center">
-  <img src="Gif's/tenor.gif" width="125px">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC8C8&center=true&vCenter=true&width=500&lines=Adiós+:3;Cuidese!;Usted+es+un+Crack;Viva+la+musica!!!;<3;Chao+<3"/>
+  <i>"La tecnología avanza, pero los principios permanecen."</i>
 </p>
