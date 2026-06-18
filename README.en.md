@@ -1,146 +1,82 @@
-<h3 align="center">Language / Idioma</h3>
+### <p align="center">COMUZA</p>
+### <p align="center">Systems Architecture & Web Development</p>
 
 <p align="center">
-  <a href="README.md">
-    <img src="https://img.shields.io/badge/🇪🇸-Spanish-FFC8C8?style=for-the-badge&labelColor=450202" />
-  </a>
-  <a href="README.en.md">
-    <img src="https://img.shields.io/badge/🇺🇸-English-FFC8C8?style=for-the-badge&labelColor=450202" />
-  </a>
+  <a href="README.md">Español</a> · 
+  <a href="README.en.md">English</a>
 </p>
 
 ---
 
-# <p align="center">Comuza • The King of the Null</p>
-
-
 <p align="center">
-  <img src="Gif's/tenor.gif" width="125px">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC8C8&center=true&vCenter=true&width=500&lines=Hello+:3;A+Future+Developer+Crack;Perfectionist;I+love+detail;Working+on+Kecomu+IA;Privacy+is+power"/>
+  <i>"Clean code is not an option, it is a discipline. Optimization... should not be negotiable."</i>
 </p>
 
 ---
 
-### About Me
--  **Specialty:** Web Developer focused on **Modern UI/UX**.
--  **Philosophy:** Clean code, no unnecessary frameworks (Vanilla JS) and privacy by design.
--  **Aesthetic:** Lover of dark contrast, automation, and details.
--  **Identity:** Young developer focused on continuous learning and innovation.
+### Profile
+
+Web developer focused on building digital experiences with a strong emphasis on code architecture, resource efficiency, and data integrity. My approach centers on utilizing native technologies (Vanilla JS, CSS3, HTML5) along with a thoughtful use of frameworks, ensuring complete control over system performance and security while avoiding unnecessary dependency on external tools.
 
 ---
 
-### My Main Projects
+### Projects in Development
 
-| Project | Status | Description |
+| Project | Status | Scope |
 | :--- | :--- | :--- |
-| **[CZAdb](https://github.com/Comuza/CZAdb)** | Planning | ... |
-| **[Kecomu](https://comuza.github.io/Comuza-IAKerolmi/Html/)** | Finished | Abandoned, due to complexity |
-| **[Kerolmi](https://comuza.github.io/HistoriasComuza/Paginas)** | In progress... | Evolutionary documentation on web architecture and good practices. |
+| **[CZAdb](https://github.com/Comuza/CZAdb)** | Planning | Hardware optimization system via ADB for mobile devices. |
+| **[Kecomu](https://comuza.github.io/Comuza-IAKerolmi/Html/)** | Completed | Comprehensive digital services platform. |
+| **[Kerolmi](https://comuza.github.io/HistoriasComuza/Paginas)** | In Progress | Website development for independent training project. |
+| **[FNAFHS](https://comuza.github.io/FNAFHS-REMAKE-WEB-SITIO/)** | Completed | Website development for indie animation product. |
 
 ---
 
-### Latest update about me:
+### Official Statement
 
-<h3>We're back from break! <br> I'm planning a cell phone/tablet optimization system via adb, so you can revive that old electronic device without any effort!</h3>
+Following a period of internal restructuring, the initiation of a new development phase focused on mobile operating system optimization is announced. The **CZAdb** project represents an effort to democratize hardware maintenance, offering an automated and accessible solution for the recovery of electronic devices.
 
 ---
-### Global Activity
+
+### Activity Metrics
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Comuza&bg_color=000000&color=FFC8C8&line=FFC8C8&point=FFFFFF&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Comuza&bg_color=0a0a0a&color=cccccc&line=a0a0a0&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-  <img height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=Comuza&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="GitHub Stats"/>
-
-  <br>
-  
-<p align="center">
-  <img height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Comuza&hide_title=false&layout=compact&theme=gotham&count_private=true" alt="Most Used Languages" />
-</p>
-
----
-
-<h3 align="center">I use...</h3>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-  ---
-
-<h3 align="center">I'm learning...</h3>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" 
-     alt="C++">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" 
-     alt="SQLite">
-</p>
-
-
----
-
-<h3 align="center">Experience</h3>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Projects-2-FFC8C8?style=for-the-badge&logo=github&labelColor=000000&color=2E0008" />
-  <img src="https://img.shields.io/badge/Teamwork-0._I'm_open_to_collaborations_:3-FFC8C8?style=for-the-badge&logo=github&labelColor=000000&color=2E0008" />
-  <img src="https://img.shields.io/badge/Experience-Freelance-FFC8C8?style=for-the-badge&logo=code&labelColor=000000&color=2E0008" />
+  <img height="160px" src="https://beautiful-github-homepage.vercel.app/api?username=Comuza&hide_title=true&show_icons=true&theme=dark&include_all_commits=true" alt="GitHub Statistics"/>
+  <img height="160px" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Comuza&hide_title=false&layout=compact&theme=dark&count_private=true" alt="Most Used Languages" />
 </p>
 
 ---
 
-### Connect With Me...
+### Technical Competencies
 
-<a href="mailto:Comuzadeveloper@outlook.com">
-  <img src="https://img.shields.io/badge/Outlook-Comuzadeveloper@outlook.com-FFC8C8?style=for-the-badge&logo=microsoft-outlook&logoColor=000000&labelColor=2E0008" />
-</a>
+**Proficiency**
+- HTML5 · CSS3 · Interface Design (UI/UX)
 
-<br>
-<br>
-
-<a href="https://www.linkedin.com/in/comuza-developer-b93bb73b8/">
-  <img src="https://img.shields.io/badge/LinkedIn-Follow_Comuza!!!-FFC8C8?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=2E0008" />
-</a>
-
-<br>
-<br>
-
-<a href="https://github.com/ComuzaMobile">
-  <img src="https://img.shields.io/badge/GitHub-Follow_my_secondary_account!!!-FFC8C8?style=for-the-badge&logo=github&logoColor=000000&labelColor=2E0008" />
-</a>
+**Active Learning**
+- JavaScript (Advanced)
 
 ---
 
-### Special Thanks / Reconocimientos
+### Professional Trajectory
 
-A special thanks to the **senior engineers, software architects and industry minds** who have started following this profile in recent weeks.
+- Freelance project development with a focus on customization and attention to detail.
+- Active collaboration in independent development communities.
+- Participation in open-source initiatives with social impact.
 
-Seeing that **FAANG** professionals and large institutions are watching the growth of **Kecomu** is not only an honor, but also the fuel to keep programming harder in the development of this ecosystem.
+---
 
-**Why am I still here?**
-- Because I like programming.
-- Because of the belief that **Privacy** is a right, not an option.
-- Because of the support of a community that values artisanal code.
+### Contact & Networks
 
-Really, thank you <3
+- **Email:** [Comuzadeveloper@outlook.com](mailto:Comuzadeveloper@outlook.com)
+- **Slack:** Available for technical inquiries and collaborations.
+- **LinkedIn:** [Professional Profile](https://www.linkedin.com/in/comuza-developer-b93bb73b8/)
+- **Secondary GitHub:** [ComuzaMobile](https://github.com/ComuzaMobile)
 
 ---
 
 <p align="center">
-  <img src="Gif's/tenor.gif" width="125px">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC8C8&center=true&vCenter=true&width=500&lines=Bye+:3;Take+care!;You+are+a+Crack;Long+live+music!!!;<3;Chao+<3"/>
+  <i>"Technology advances, but principles remain."</i>
 </p>
