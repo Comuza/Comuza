@@ -24,10 +24,9 @@ Desarrollador web orientado a la construcción de experiencias digitales con un 
 
 | Proyecto | Estado | Alcance |
 | :--- | :--- | :--- |
-| **CZAdb** | Planificación | Sistema de optimización de hardware mediante ADB para dispositivos móviles. |
-| **Kecomu** | Desarrollo | Plataforma integral de servicios digitales. |
-| **Kerolmi** | Documentación | Repositorio de buenas prácticas en arquitectura web y metodologías ágiles. |
-| **FNAFHS** | Colaboración | Desarrollo de sitio web para proyecto independiente de entretenimiento. |
+| **[CZAdb](https://github.com/Comuza/CZAdb)** | Planificación | ... |
+| **[Kecomu](https://comuza.github.io/Comuza-IAKerolmi/Html/)** | Terminado | Plataforma de servicios digitales. |
+| **[Kerolmi](https://comuza.github.io/HistoriasComuza/Paginas)** | En progreso | Desarrollo de sitio web para proyecto independiente de entrenamiento |
 
 ---
 
