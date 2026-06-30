@@ -27,7 +27,7 @@ Desarrollador web orientado a la construcción de experiencias digitales con un 
 | **[CZAdb](https://github.com/Comuza/CZAdb)** | Planificación | ... |
 | **[Kecomu](https://comuza.github.io/Comuza-IAKerolmi/Html/)** | Terminado | Plataforma de servicios digitales. |
 | **[Kerolmi](https://comuza.github.io/HistoriasComuza/Paginas)** | En progreso | Desarrollo de sitio web para proyecto independiente de entrenamiento |
-| **[Myko](https://comuza.github.io/Myko/)** | Terminado | Web de Myko |
+| **[Myko](https://comuza.github.io/Myko/Html/)** | Terminado | Web de Myko |
 
 ---
 
