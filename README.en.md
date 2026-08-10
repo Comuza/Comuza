@@ -1,5 +1,6 @@
 ### <p align="center">COMUZA</p>
 ### <p align="center">Systems Architecture & Web Development</p>
+### <p align="center">Founder of Myko</p>
 
 <p align="center">
   <a href="README.md">Español</a> · 
@@ -9,14 +10,14 @@
 ---
 
 <p align="center">
-  <i>"Clean code is not an option, it is a discipline. Optimization... should not be negotiable."</i>
+  <i>"Clean code is not an option, it is a discipline. Optimization... should not even be up for negotiation."</i>
 </p>
 
 ---
 
 ### Profile
 
-Web developer focused on building digital experiences with a strong emphasis on code architecture, resource efficiency, and data integrity. My approach centers on utilizing native technologies (Vanilla JS, CSS3, HTML5) along with a thoughtful use of frameworks, ensuring complete control over system performance and security while avoiding unnecessary dependency on external tools.
+Full-stack developer oriented towards building digital experiences with a strong emphasis on code architecture, resource efficiency, and data integrity. My approach focuses on the use of native technologies and judicious use of frameworks to guarantee total control over system performance and security, avoiding unnecessary dependence on external frameworks.
 
 ---
 
@@ -24,16 +25,10 @@ Web developer focused on building digital experiences with a strong emphasis on 
 
 | Project | Status | Scope |
 | :--- | :--- | :--- |
-| **[CZAdb](https://github.com/Comuza/CZAdb)** | Planning | Hardware optimization system via ADB for mobile devices. |
-| **[Kecomu](https://comuza.github.io/Comuza-IAKerolmi/Html/)** | Completed | Comprehensive digital services platform. |
-| **[Kerolmi](https://comuza.github.io/HistoriasComuza/Paginas)** | In Progress | Website development for independent training project. |
-| **[FNAFHS](https://comuza.github.io/FNAFHS-REMAKE-WEB-SITIO/)** | Completed | Website development for indie animation product. |
-
----
-
-### Official Statement
-
-Following a period of internal restructuring, the initiation of a new development phase focused on mobile operating system optimization is announced. The **CZAdb** project represents an effort to democratize hardware maintenance, offering an automated and accessible solution for the recovery of electronic devices.
+| **[CZAdb](https://github.com/Comuza/CZAdb)** | Planning | ... |
+| **[Kecomu](https://comuza.github.io/Comuza-IAKerolmi/Html/)** | Completed | Digital services platform. |
+| **[Kerolmi](https://comuza.github.io/HistoriasComuza/Paginas)** | In progress | Website development for an independent training project. |
+| **[Myko](https://comuza.github.io/Myko/Html/)** | Completed | Myko website |
 
 ---
 
@@ -52,7 +47,7 @@ Following a period of internal restructuring, the initiation of a new developmen
 
 ### Technical Competencies
 
-**Proficiency**
+**Mastery**
 - HTML5 · CSS3 · Interface Design (UI/UX)
 
 **Active Learning**
@@ -62,21 +57,20 @@ Following a period of internal restructuring, the initiation of a new developmen
 
 ### Professional Trajectory
 
-- Freelance project development with a focus on customization and attention to detail.
+- Development of freelance projects with a focus on customization and detail.
 - Active collaboration in independent development communities.
 - Participation in open-source initiatives with social impact.
 
 ---
 
-### Contact & Networks
+### Contact and Networks
 
 - **Email:** [Comuzadeveloper@outlook.com](mailto:Comuzadeveloper@outlook.com)
-- **Slack:** Available for technical inquiries and collaborations.
 - **LinkedIn:** [Professional Profile](https://www.linkedin.com/in/comuza-developer-b93bb73b8/)
 - **Secondary GitHub:** [ComuzaMobile](https://github.com/ComuzaMobile)
 
 ---
 
 <p align="center">
-  <i>"Technology advances, but principles remain."</i>
+  <i>"Technology advances, but the principles remain."</i>
 </p>
