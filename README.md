@@ -1,5 +1,6 @@
 ### <p align="center">COMUZA</p>
 ### <p align="center">Arquitectura de Sistemas & Desarrollo Web</p>
+### <p align="center">Fundador de Myko</p>
 
 <p align="center">
   <a href="README.md">Español</a> · 
@@ -16,7 +17,7 @@
 
 ### Perfil
 
-Desarrollador web orientado a la construcción de experiencias digitales con un fuerte énfasis en la arquitectura de código, la eficiencia de recursos y la integridad de datos. Mi enfoque se centra en la utilización de tecnologías nativas (Vanilla JS, CSS3, HTML5) y un buen uso de frameworks, para garantizar un control total sobre el rendimiento y la seguridad de los sistemas, evitando la dependencia innecesaria de marcos de trabajo externos.
+Desarrollador full stack orientado a la construcción de experiencias digitales con un fuerte énfasis en la arquitectura de código, la eficiencia de recursos y la integridad de datos. Mi enfoque se centra en la utilización de tecnologías nativas y un buen uso de frameworks, para garantizar un control total sobre el rendimiento y la seguridad de los sistemas, evitando la dependencia innecesaria de marcos de trabajo externos.
 
 ---
 
@@ -28,12 +29,6 @@ Desarrollador web orientado a la construcción de experiencias digitales con un 
 | **[Kecomu](https://comuza.github.io/Comuza-IAKerolmi/Html/)** | Terminado | Plataforma de servicios digitales. |
 | **[Kerolmi](https://comuza.github.io/HistoriasComuza/Paginas)** | En progreso | Desarrollo de sitio web para proyecto independiente de entrenamiento |
 | **[Myko](https://comuza.github.io/Myko/Html/)** | Terminado | Web de Myko |
-
----
-
-### Comunicado Oficial
-
-Tras un período de reestructuración interna, se anuncia el inicio de una nueva fase de desarrollo centrada en la optimización de sistemas operativos móviles. El proyecto **CZAdb** representa un esfuerzo por democratizar el mantenimiento de hardware, ofreciendo una solución automatizada y accesible para la recuperación de dispositivos electrónicos.
 
 ---
 
@@ -71,7 +66,6 @@ Tras un período de reestructuración interna, se anuncia el inicio de una nueva
 ### Contacto y Redes
 
 - **Correo electrónico:** [Comuzadeveloper@outlook.com](mailto:Comuzadeveloper@outlook.com)
-- **Slack:** Disponible para consultas técnicas y colaboraciones.
 - **LinkedIn:** [Perfil Profesional](https://www.linkedin.com/in/comuza-developer-b93bb73b8/)
 - **GitHub Secundario:** [ComuzaMobile](https://github.com/ComuzaMobile)
 
