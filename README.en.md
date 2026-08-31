@@ -1,5 +1,7 @@
 ### <p align="center">COMUZA</p>
-### <p align="center">Systems Architecture & Web Development</p>
+
+### <p align="center">Web Developer</p>
+
 ### <p align="center">Founder of Myko</p>
 
 <p align="center">
@@ -10,25 +12,29 @@
 ---
 
 <p align="center">
-  <i>"Clean code is not an option, it is a discipline. Optimization... should not even be up for negotiation."</i>
+  <i>"Clean code is not an option, it is a discipline. Optimization... should never be negotiable."</i>
 </p>
 
 ---
 
 ### Profile
 
-Full-stack developer oriented towards building digital experiences with a strong emphasis on code architecture, resource efficiency, and data integrity. My approach focuses on the use of native technologies and judicious use of frameworks to guarantee total control over system performance and security, avoiding unnecessary dependence on external frameworks.
+Web Developer focused on building modern, efficient, and visually refined digital experiences. I primarily work with web technologies such as HTML5, CSS3, and JavaScript, complemented by tools and frameworks including Tailwind CSS, Astro, and React.
+
+I also have experience working in Linux environments and with command-line tools, using Shell and Bash for automation, configuration, and system administration.
+
+My approach combines development, interface design, performance, and maintainable code, aiming to build functional solutions without compromising technical quality.
 
 ---
 
 ### Projects in Development
 
-| Project | Status | Scope |
-| :--- | :--- | :--- |
-| **[CZAdb](https://github.com/Comuza/CZAdb)** | Planning | ... |
-| **[Kecomu](https://comuza.github.io/Comuza-IAKerolmi/Html/)** | Completed | Digital services platform. |
-| **[Kerolmi](https://comuza.github.io/HistoriasComuza/Paginas)** | In progress | Website development for an independent training project. |
-| **[Myko](https://comuza.github.io/Myko/Html/)** | Completed | Myko website |
+| Project                                                         | Status      | Scope                                                    |
+| :-------------------------------------------------------------- | :---------- | :------------------------------------------------------- |
+| **[CZAdb](https://github.com/Comuza/CZAdb)**                    | Planning    | ...                                                      |
+| **[Kecomu](https://comuza.github.io/Comuza-IAKerolmi/Html/)**   | Completed   | Digital services platform.                               |
+| **[Kerolmi](https://comuza.github.io/HistoriasComuza/Paginas)** | In Progress | Website development for an independent training project. |
+| **[Myko](https://comuza.github.io/Myko/Html/)**                 | Completed   | Myko's website.                                          |
 
 ---
 
@@ -45,32 +51,46 @@ Full-stack developer oriented towards building digital experiences with a strong
 
 ---
 
-### Technical Competencies
+### Technical Skills
 
-**Mastery**
-- HTML5 · CSS3 · Interface Design (UI/UX)
+**Web Development**
 
-**Active Learning**
-- JavaScript (Advanced)
+* HTML5 · CSS3 · JavaScript
+* Tailwind CSS · Astro · React
+* User Interface Design (UI/UX)
+* Responsive Web Development
+
+**Systems & Automation**
+
+* Shell · Bash
+* Linux
+* Script-based automation
+
+**Currently Learning**
+
+* Component architecture
+* Astro development
+* React interface development
 
 ---
 
-### Professional Trajectory
+### Professional Background
 
-- Development of freelance projects with a focus on customization and detail.
-- Active collaboration in independent development communities.
-- Participation in open-source initiatives with social impact.
+* Freelance development with a focus on customization, performance, and attention to detail.
+* Building websites and digital experiences for independent projects.
+* Active collaboration within independent development communities.
+* Participation in open-source initiatives.
 
 ---
 
-### Contact and Networks
+### Contact & Socials
 
-- **Email:** [Comuzadeveloper@outlook.com](mailto:Comuzadeveloper@outlook.com)
-- **LinkedIn:** [Professional Profile](https://www.linkedin.com/in/comuza-developer-b93bb73b8/)
-- **Secondary GitHub:** [ComuzaMobile](https://github.com/ComuzaMobile)
+* **Email:** [Comuzadeveloper@outlook.com](mailto:Comuzadeveloper@outlook.com)
+* **LinkedIn:** [Professional Profile](https://www.linkedin.com/in/comuza-developer-b93bb73b8/)
+* **Secondary GitHub:** [ComuzaMobile](https://github.com/ComuzaMobile)
 
 ---
 
 <p align="center">
-  <i>"Technology advances, but the principles remain."</i>
+  <i>"Technology advances, but principles remain."</i>
 </p>
